@@ -1,0 +1,25 @@
+{
+  "name": "abh-devcamp-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JavaScript applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ainhoabh/abh-devcamp-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Ainhoa <ainhoabh@gmail.com> (https://www.npmjs.com/~ainhoabh)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ainhoabh/abh-devcamp-js-footer/issues"
+  },
+  "homepage": "https://github.com/ainhoabh/abh-devcamp-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
